@@ -1,0 +1,59 @@
+.navbar {
+  padding-right: 20px;
+  background-color: #EA892F;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.navbar a {
+  color: #FFC79B;
+}
+
+.navbar a:hover {
+  color: #AE4300;
+}
+
+h2, h3, p {
+  color: #6C4B39;
+}
+
+h2, h3 {
+  padding-top: 15px;
+}
+
+div {
+  padding: 10px;
+}
+
+.form-label {
+  color: #6C4B39;
+}
+
+footer {
+  height: 200px;
+  width: 100%;
+  background-color: #FFC79B;
+  padding: 80px;
+}
+
+footer p {
+  font-family: monospace;
+  font-size: 28px;
+  color: white;
+}
+
+.btn {
+background-color: #BB5400;
+color: white;
+}
+
+.btn:hover {
+background-color: #CE875E;
+color: #333A31;
+}
+
+.btn:active {
+  background-color: #AF4000;
+}
